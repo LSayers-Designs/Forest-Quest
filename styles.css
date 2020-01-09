@@ -1,0 +1,68 @@
+/*
+Name: Letisha Rahming
+Project Title:  Troll Game
+Description:  A Sci-Fi/ Fantasy text based choose your adventure game using JS, HTML and CSS
+Creation Date:	1/8/2020
+Date Completed: In Progress
+Last Updated: 1/9/2020
+
+Font Families:
+font-family: 'Redressed', cursive;
+font-family: 'Julee', cursive;
+font-family: 'Eagle Lake', cursive;
+font-family: 'Felipa', cursive;*/
+
+body{
+	background-image: url("darkforest.jpg");
+}
+
+h1{
+	font-family:'Eagle Lake', cursive;
+	color:rgb(131, 0, 68);
+	text-align: center;
+	font-size: 55px;
+	text-shadow: 2px 2px 3px ivory;
+}
+
+div#button{
+	font-family: 'Julee', cursive;
+	color: ivory;
+	font-size: 35px ;
+	text-align: center;
+	background-color: rgb(68, 0, 5);
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	
+}
+
+
+div#button:hover{
+	font-family: 'Eagle Lake', cursive;
+	color: ivory;
+	font-size: 35px ;
+	text-align: center;
+	background-color: rgb(68, 0, 5);
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+}
+	
+	
+h2#result{
+	color: ivory;
+	text-align: center;
+	font-family:'Eagle Lake', cursive;
+}
+	
+	
+h2#death{
+	color: red;
+	text-align: center;
+	font-family: 'Eagle Lake', cursive;
+}	
+	
+	
+	
